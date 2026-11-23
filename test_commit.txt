@@ -1,2 +1,0 @@
-Hello from API test file!
-This is a test commit content.
